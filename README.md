@@ -1,5 +1,5 @@
 ---
-title: BeyondChatGPT Demo
+title: Demo
 emoji: 📉
 colorFrom: pink
 colorTo: yellow
